@@ -1,0 +1,16 @@
+{
+  "name": "Dizifilmizle",
+  "id": "dizifilmizle",
+  "version": 1,
+  "languages": ["tr"],
+  "maintainer": "Sizin Adınız",
+  "website": "https://dizifilmizle.net",
+  "icon": "https://dizifilmizle.net/favicon.ico",
+  "scrapers": [{
+    "id": "dizifilmizle",
+    "name": "Dizifilmizle",
+    "file": "com/dizifilmizle/dizifilmizle.kt",
+    "lang": "tr",
+    "type": "both"
+  }]
+}
